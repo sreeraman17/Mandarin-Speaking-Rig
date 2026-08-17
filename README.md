@@ -13,7 +13,7 @@
 
 `Runs on your Mac` · `Works with the wifi off` · `No account` · `Free forever!`
 
-<img src="assets/speaking-rig-visual-spoken-chinese-free.jpg"
+<img src="assets/speaking-rig-visual-spoken-chinese-free.jpeg"
      alt="Speaking Rig — Practise Mandarin by actually speaking Mandarin"
      width="100%">
 
