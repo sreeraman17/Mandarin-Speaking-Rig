@@ -4,7 +4,7 @@
 
 # Speaking Rig
 
-### A sparring partner for spoken Mandarin.
+### A sparring partner for spoken Mandarin / Spoken Chinese
 
 **No scores. No streaks. No corrections.**
 **Somebody to talk to.**
@@ -92,6 +92,8 @@ patience running out. No score at the end.
 These are not three features. It is one person, and they are sitting on your
 laptop, and they have all the time in the world.
 
+Built to solve the longing for a speaking buddy to practise Mandarin, by yours truly — [sreeraman.in](https://www.sreeraman.in)
+
 <br>
 
 ## What the apps built instead
@@ -115,7 +117,7 @@ a bad product.
 Here you get to be wrong. Nobody is watching. Nothing is counting.
 
 
-Built to solve the longing for a speaking buddy to practise Mandarin, by yours truly — [sreeraman.in](https://www.sreeraman.in)
+
 
 <br>
 
