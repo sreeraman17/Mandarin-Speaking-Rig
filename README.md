@@ -13,7 +13,7 @@
 
 `Runs on your Mac` · `Works with the wifi off` · `No account` · `Free forever!`
 
-<img src="assets/speaking-rig-visual-spoken-chinese-free.jpeg"
+<img src="assets/speaking-rig-visual-spoken-chinese-free.png"
      alt="Speaking Rig — Practise Mandarin by actually speaking Mandarin"
      width="100%">
 
@@ -128,7 +128,7 @@ Here you get to be wrong. Nobody is watching. Nothing is counting.
 
 <div align="center">
 
-<img src="assets/Chinese-speaking-rig-screenshot.png"
+<img src="assets/Chinese-speaking-rig-screenshot.jpg"
      alt="Speaking Rig — Mandarin conversation practice interface"
      width="85%">
 
