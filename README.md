@@ -19,7 +19,7 @@
 
 <br>
 
-**[Say your first five lines →](CUES.md)**
+
 
 <br>
 
@@ -44,6 +44,8 @@ minutes a day, every day, where you say the same clumsy sentence six times until
 your mouth learns it.
 
 That is the gap. This fills it.
+
+**[Say your first five lines →](CUES.md)**
 
 <br>
 
