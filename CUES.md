@@ -1,6 +1,7 @@
 # Speaking cues
 
-{Assuming you have setup the rig}
+**{Assuming you have setup the rig}**
+
 One page. Ten lines you can say out loud on your first run, in two scenes, with
 what should happen for each. Print it, or keep it on your phone.
 
