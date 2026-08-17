@@ -121,7 +121,7 @@ speaking-rig/
 ├── setup.sh            one-time install, fails loudly
 ├── start.sh            port 8765, kills only its own previous process
 ├── tests/
-│   ├── regression.py   374 checks, no microphone, no model, no network
+│   ├── regression.py   421 checks, no microphone, no model, no network
 │   ├── bench_asr.py    recognisers over your own recordings
 │   ├── bench_reply.py  language models over real conversation turns
 │   ├── probe_audio.py  one recording, in detail
@@ -324,7 +324,7 @@ it, which is correct and was confusing when any turn could be edited.
 
 `tests/regression.py` fakes the recogniser, the language model and the on-disk
 check, so it runs anywhere in a few seconds with no microphone and no network.
-374 checks across 40 sections.
+421 checks across 40 sections.
 
 Every check exists because something broke once, and the comment on each says
 what. Several sections are named after the session that produced them: *the
