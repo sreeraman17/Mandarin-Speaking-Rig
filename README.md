@@ -123,9 +123,16 @@ a bad product.
 Here you get to be wrong. Nobody is watching. Nothing is counting.
 
 
-
-
 <br>
+
+
+<div align="center">
+
+<img src="assets/Chinese-speaking-rig-screenshot.png"
+     alt="Speaking Rig — Mandarin conversation practice interface"
+     width="85%">
+
+</div>
 
 ## It will mishear you. That is not the bug.
 
