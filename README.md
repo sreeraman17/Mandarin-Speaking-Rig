@@ -11,7 +11,7 @@
 
 <br>
 
-`Runs on your Mac` · `Works with the wifi off` · `No account` · `Free forever!'
+`Runs on your Mac` · `Works with the wifi off` · `No account` · `Free forever!`
 
 <br>
 
