@@ -2,7 +2,7 @@
 
 <br>
 
-# Speaking Rig
+# Mandarin Speaking Rig
 
 ### A sparring partner for spoken Mandarin / Spoken Chinese
 
